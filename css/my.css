@@ -1,0 +1,75 @@
+/*#pp 
+{
+  color:blue;
+  padding:20px 0px 0px 0px;
+}*/
+.wide	
+{
+	width:1140px;
+}
+
+body 
+{
+background:linear-gradient(180deg,black,silver);	
+font-style: italic;
+color:blue;
+	
+}
+
+/*.container{
+	background-image: url('/home/eit/Documents/Project/images/PW.jpg');
+	height:2500px;
+  }
+*/
+  img 
+  {
+  	float:right;
+  	width:250px;
+  	height:250px;
+  	margin:100px;
+  	display:inline-block;
+  }
+  
+  p 
+  {
+  	color:blue;
+  	font-family: sans-serif;
+  	font-style: italic;
+  	padding:220px 0px 0px 10px;
+  	margin:none;
+  	font-size: 20px;
+  }
+  h1
+  {
+  	color:red;
+  	font-family: sans-serif;
+  	font-style: italic;
+     padding:0px 0px 0px 50px;
+
+  	
+  }
+  
+
+  #yh 
+  {
+  	padding:0px 0px 0px 0px;
+  	color:white;
+  	text-align:center;
+  }
+
+  .navbar.navbar-inverse.navbar-fixed-bottom.show
+  {
+  	background:linear-gradient(70deg,black,blue);
+
+  }
+
+  .row{
+    background:linear-gradient(180deg, silver,black);
+  }
+
+/*.container 
+{
+  background:linear-gradient(70deg,silver,white);
+
+  }
+*/
