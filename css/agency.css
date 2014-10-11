@@ -46,7 +46,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    color: #B88A00;
 }
 
 h1,
@@ -55,7 +55,7 @@ h3,
 h4,
 h5,
 h6 {
-    color:blue;
+    color:#ffff00;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -220,7 +220,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: blue;
+    color: #B88A00;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -296,7 +296,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    color:silver;
+    color:#333333;
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -376,10 +376,10 @@ section h3.section-subheading {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(254,209,54,.9);
+  /*  background: rgba(254,209,54,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
-    transition: all ease .5s;
+    transition: all ease .5s;*/
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -888,7 +888,7 @@ body {
 }
 #grad
 {
-        background:linear-gradient(80deg,silver,white,silver);
+        background:linear-gradient(80deg,black,silver);
 
 }
 #grad2
@@ -899,4 +899,8 @@ body {
 #height
 {
     height:100%;
+}
+#about
+{
+    background:linear-gradient(180deg,black,silver);
 }
